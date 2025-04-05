@@ -2,7 +2,6 @@
 
 How did we get to this point?
 
-- <https://etok.me/>
 - <https://linkedin.com/in/etok>
 
 Hi! I'm Ethan.
@@ -39,10 +38,15 @@ Ethan: Print "Ethan";: GoTo Ethan
 ```
 
 <details>
-<summary>What happens when you run the code above?</summary>
+<summary>What happens when you run the above program?</summary>
 
 The code above will print the string "Ethan" to the console and then go back to
 the label "Ethan". In other words, the code above will print the string "Ethan"
 over and over again until the user forcefully exits the program.
 
 </details>
+
+## Reference
+
+- [10print](https://10print.org/)
+- [QB64](https://qb64.com/)
